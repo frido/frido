@@ -30,6 +30,20 @@ I used [JHipster](https://www.jhipster.tech/) as the development platform. The b
 
 **repository**: [samosprava](https://github.com/frido/samosprava)
 
+### MvnRepo
+
+Application indexes `pom.xml` files in mvn repositories (like [Maven Central Repository](https://repo1.maven.org/maven2/)) to allow users to search for java artifacts. The project was inspired by [mvnrepository](mvnrepository.com)
+
+**[mvnrepo-indexer](https://github.com/frido/mvnrepo-indexer)**: **Java** crawler to download all `pom.xml` files from the repository.
+
+**[mvnrepo-backend](https://github.com/frido/mvnrepo-backend)**: **Spring Boot** application written in **Kotlin** provides REST-API backend.
+
+**[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: **Angular** web application simply display search results of Java artifacts. 
+
+My motivation was to try (in that time new) technologies like Kotlin, Gradle, Angular-CLI, java.util.concurrent package and so on. The application was running on Heroku.
+
+I was experimenting to develop on cloud IDEs. My favourites were [Cloud9](https://aws.amazon.com/cloud9/) and [Codenvy](https://codenvy.com/)
+
 <!--
 **frido/frido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
