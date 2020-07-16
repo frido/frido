@@ -39,7 +39,7 @@ I used [JHipster](https://www.jhipster.tech/) as the development platform. The b
 Application indexes `pom.xml` files in mvn repositories (like [Maven Central Repository](https://repo1.maven.org/maven2/)) to allow users to search for java artifacts. The project was inspired by [mvnrepository](mvnrepository.com)
 
 
-My motivation was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/), java.util.concurrent package and so on. The application was running on [Heroku](https://www.heroku.com/home#).
+My motivation was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/). The application was running on [Heroku](https://www.heroku.com/home#).
 
 I was experimenting to develop in cloud IDEs. My favorites were [Cloud9](https://aws.amazon.com/cloud9/) and [Codenvy](https://codenvy.com/)
 
@@ -49,7 +49,7 @@ I was experimenting to develop in cloud IDEs. My favorites were [Cloud9](https:/
 
 **[mvnrepo-backend](https://github.com/frido/mvnrepo-backend)**: [Spring Boot](https://spring.io/projects/spring-boot) application written in [Kotlin](https://kotlinlang.org/) provides REST-API backend.
 
-**[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: [Angular](https://angular.io/) web application simply displays search results of Java artifacts. 
+**[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: [Angular-CLI](https://cli.angular.io/) web application simply displays search results of Java artifacts. 
 
 <!--
 **frido/frido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
