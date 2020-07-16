@@ -18,7 +18,7 @@ Project used code analysis tools (
 ), CI/CD tools (
 [![CircleCI](https://circleci.com/gh/frido/government.svg?style=svg)](https://circleci.com/gh/frido/government), 
 [buddy](https://buddy.works/)
-), cloud application platforms ([heroku](https://www.heroku.com/home#), [openshift](https://www.openshift.com/)), loggers to simulate real commercial projects.
+), cloud application platforms ([Heroku](https://www.heroku.com/home#), [Openshift](https://www.openshift.com/)), loggers to simulate real commercial projects.
 
 **repository**: [government](https://github.com/frido/government)
 
@@ -40,7 +40,7 @@ Application indexes `pom.xml` files in mvn repositories (like [Maven Central Rep
 
 **[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: **Angular** web application simply display search results of Java artifacts. 
 
-My motivation was to try (in that time new) technologies like Kotlin, Gradle, Angular-CLI, java.util.concurrent package and so on. The application was running on Heroku.
+My motivation was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/), java.util.concurrent package and so on. The application was running on [Heroku](https://www.heroku.com/home#.
 
 I was experimenting to develop on cloud IDEs. My favourites were [Cloud9](https://aws.amazon.com/cloud9/) and [Codenvy](https://codenvy.com/)
 
