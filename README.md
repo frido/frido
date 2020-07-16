@@ -12,7 +12,7 @@ It is a web page about resolutions of a city council, peoples related to the cou
 
 A motive was to try and compare similar technologies. There is a list of comparisons with a short description of what I would prefer - [link](https://petrzalka.info/government/). I wanted to create a web about used technologies and their alternatives, but I have never finished it - [link](https://petrzalka.info/government-page/).
 
-Project used code analysis tools (
+The project used code analysis tools (
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=frido%3Asamosprava&metric=alert_status)](https://sonarcloud.io/dashboard?id=frido%3Asamosprava), [![codebeat badge](https://codebeat.co/badges/796fdd58-d3cb-4e82-b8a9-7e8765e8b3d8)](https://codebeat.co/projects/github-com-frido-government-master), 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7099cd093f6431eb759942b43f08dce)](https://www.codacy.com/app/frido/government?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=frido/government&amp;utm_campaign=Badge_Grade)
 ), CI/CD tools (
@@ -38,11 +38,11 @@ Application indexes `pom.xml` files in mvn repositories (like [Maven Central Rep
 
 **[mvnrepo-backend](https://github.com/frido/mvnrepo-backend)**: [Spring Boot](https://spring.io/projects/spring-boot) application written in [Kotlin](https://kotlinlang.org/) provides REST-API backend.
 
-**[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: [Angular](https://angular.io/) web application simply display search results of Java artifacts. 
+**[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: [Angular](https://angular.io/) web application simply displays search results of Java artifacts. 
 
 My motivation was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/), java.util.concurrent package and so on. The application was running on [Heroku](https://www.heroku.com/home#.
 
-I was experimenting to develop on cloud IDEs. My favourites were [Cloud9](https://aws.amazon.com/cloud9/) and [Codenvy](https://codenvy.com/)
+I was experimenting to develop in cloud IDEs. My favorites were [Cloud9](https://aws.amazon.com/cloud9/) and [Codenvy](https://codenvy.com/)
 
 <!--
 **frido/frido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
