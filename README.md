@@ -34,11 +34,11 @@ I used [JHipster](https://www.jhipster.tech/) as the development platform. The b
 
 Application indexes `pom.xml` files in mvn repositories (like [Maven Central Repository](https://repo1.maven.org/maven2/)) to allow users to search for java artifacts. The project was inspired by [mvnrepository](mvnrepository.com)
 
-**[mvnrepo-indexer](https://github.com/frido/mvnrepo-indexer)**: **Java** crawler to download all `pom.xml` files from the repository.
+**[mvnrepo-indexer](https://github.com/frido/mvnrepo-indexer)**: [Java](https://www.java.com/en/) crawler to download all `pom.xml` files from the repository.
 
-**[mvnrepo-backend](https://github.com/frido/mvnrepo-backend)**: **Spring Boot** application written in **Kotlin** provides REST-API backend.
+**[mvnrepo-backend](https://github.com/frido/mvnrepo-backend)**: [Spring Boot](https://spring.io/projects/spring-boot) application written in [Kotlin](https://kotlinlang.org/) provides REST-API backend.
 
-**[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: **Angular** web application simply display search results of Java artifacts. 
+**[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: [Angular](https://angular.io/) web application simply display search results of Java artifacts. 
 
 My motivation was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/), java.util.concurrent package and so on. The application was running on [Heroku](https://www.heroku.com/home#.
 
