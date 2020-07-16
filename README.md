@@ -24,7 +24,7 @@ The project used code analysis tools (
 [buddy](https://buddy.works/)
 ), cloud application platforms ([Heroku](https://www.heroku.com/home#), [Openshift](https://www.openshift.com/)), loggers to simulate real commercial projects.
 
-**repository**: [government](https://github.com/frido/government)
+**repository**: **[government](https://github.com/frido/government)**
 
 ### Samosprava
 
@@ -32,7 +32,7 @@ The aim of this project was to provide a web-based management tool for data used
 
 I used [JHipster](https://www.jhipster.tech/) as the development platform. The backend is built on [Spring Boot](https://spring.io/projects/spring-boot). The frontend is [Angular](https://angular.io/) application. Data were stored in [MongoDB](https://www.mongodb.com/) provided by [mLab](https://mlab.com/). The application was deployed on [Heroku](https://www.heroku.com/home#).
 
-**repository**: [samosprava](https://github.com/frido/samosprava)
+**repository**: **[samosprava](https://github.com/frido/samosprava)**
 
 ### MvnRepo
 
