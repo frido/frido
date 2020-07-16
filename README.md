@@ -12,13 +12,13 @@ It is a web page about resolutions of a city council, peoples related to the cou
 
 A motive was to try and compare similar technologies. There is a list of comparisons with a short description of what I would prefer - [link](https://petrzalka.info/government/). I wanted to create a web about used technologies and their alternatives, but I have never finished it - [link](https://petrzalka.info/government-page/).
 
-Project use code analysis tool, CI/CD tools, cloud application platforms, loggers to simulate real commercial projects.
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=frido%3Asamosprava&metric=alert_status)](https://sonarcloud.io/dashboard?id=frido%3Asamosprava)
-[![codebeat badge](https://codebeat.co/badges/796fdd58-d3cb-4e82-b8a9-7e8765e8b3d8)](https://codebeat.co/projects/github-com-frido-government-master)
+Project used code analysis tools (
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=frido%3Asamosprava&metric=alert_status)](https://sonarcloud.io/dashboard?id=frido%3Asamosprava), [![codebeat badge](https://codebeat.co/badges/796fdd58-d3cb-4e82-b8a9-7e8765e8b3d8)](https://codebeat.co/projects/github-com-frido-government-master), 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7099cd093f6431eb759942b43f08dce)](https://www.codacy.com/app/frido/government?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=frido/government&amp;utm_campaign=Badge_Grade)
-[![CircleCI](https://circleci.com/gh/frido/government.svg?style=svg)](https://circleci.com/gh/frido/government)
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/samosprava/samosprava)
+), CI/CD tools (
+[![CircleCI](https://circleci.com/gh/frido/government.svg?style=svg)](https://circleci.com/gh/frido/government), 
+[buddy](https://buddy.works/)
+), cloud application platforms ([heroku](https://www.heroku.com/home#), [openshift](https://www.openshift.com/)), loggers to simulate real commercial projects.
 
 **repository**: [government](https://github.com/frido/government)
 
