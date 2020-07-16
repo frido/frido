@@ -40,7 +40,7 @@ Application indexes `pom.xml` files in mvn repositories (like [Maven Central Rep
 
 **[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: [Angular](https://angular.io/) web application simply displays search results of Java artifacts. 
 
-My motivation was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/), java.util.concurrent package and so on. The application was running on [Heroku](https://www.heroku.com/home#.
+My motivation was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/), java.util.concurrent package and so on. The application was running on [Heroku](https://www.heroku.com/home#).
 
 I was experimenting to develop in cloud IDEs. My favorites were [Cloud9](https://aws.amazon.com/cloud9/) and [Codenvy](https://codenvy.com/)
 
