@@ -1,4 +1,7 @@
 ### Projects in Petržalka
+<p>
+  <img align='left' width="62px" src="http://petrzalka.info/img/logo-m.png">
+</p>
 
 Projects in Petržalka is a web-page about development projects in Petržalka. It collects open information from government pages. Plans, deadlines, government resolutions (and next) are summarized and displayed attractively.
 
