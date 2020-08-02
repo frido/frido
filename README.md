@@ -38,6 +38,9 @@ The project used code analysis tools (
 **repository**: **[government](https://github.com/frido/government)**
 
 ### Samosprava
+<p>
+  <img align='left' width="146px" src="https://www.jhipster.tech/images/logo/logo-jhipster.svg">
+</p>
 
 The aim of this project was to provide a web-based management tool for data used by the Government page.
 
