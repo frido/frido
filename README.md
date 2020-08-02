@@ -1,6 +1,18 @@
+### Maven statistics
+
+<p>
+  <img align='left' height="100px" src="http://petrzalka.info/mvn-statistics/charts/dependencyArtifact.png">
+</p>
+
+Java multithreaded application that aims to analyze pom files from the maven central repository. It analyzed 229267 `pom.xml` files from the latest version of each maven project in the repository. 
+
+The result is statistics that you can find in [github pages](http://petrzalka.info/mvn-statistics/).
+
+**repository**: **[mvn-statistics](https://github.com/frido/mvn-statistics)**
+
 ### Projects in Petržalka
 <p>
-  <img align='left' width="62px" src="http://petrzalka.info/img/logo-m.png">
+  <img align='left' height="100px" src="http://petrzalka.info/img/logo-m.png">
 </p>
 
 Projects in Petržalka is a web-page about development projects in Petržalka. It collects open information from government pages. Plans, deadlines, government resolutions (and next) are summarized and displayed attractively.
