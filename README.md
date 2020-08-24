@@ -33,14 +33,14 @@ A motive was to try and compare similar technologies. There is a [list of compar
 
 **repository**: **[government](https://github.com/frido/government)**
 
-### Samosprava
+## Samosprava
 The aim of this project was to provide a web-based management tool for data used by the Government page.
 
 I used [JHipster](https://www.jhipster.tech/) as the development platform. The backend is built on [Spring Boot](https://spring.io/projects/spring-boot). The frontend is [Angular](https://angular.io/) application. Data were stored in [MongoDB](https://www.mongodb.com/) provided by [mLab](https://mlab.com/). The application was deployed on [Heroku](https://www.heroku.com/home#).
 
 **repository**: **[samosprava](https://github.com/frido/samosprava)**
 
-### MvnRepo
+## MvnRepo
 
 Application indexes `pom.xml` files in mvn repositories (like [Maven Central Repository](https://repo1.maven.org/maven2/)) to allow users to search for java artifacts. The project was inspired by [mvnrepository](mvnrepository.com).
 
