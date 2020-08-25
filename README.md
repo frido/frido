@@ -1,4 +1,4 @@
-## Maven statistics
+# Maven statistics
 
 <p>
   <img align='left' height="110px" src="http://petrzalka.info/mvn-statistics/charts/ciManagement.png">
@@ -12,7 +12,7 @@ You can find the resulting statistics on the [github pages](http://petrzalka.inf
 
 **repository**: **[mvn-statistics](https://github.com/frido/mvn-statistics)**
 
-## Projects in Petržalka
+# Projects in Petržalka
 <p>
   <img align='left' height="110px" src="http://petrzalka.info/img/logo-m.png">
 </p>
@@ -25,7 +25,7 @@ You can access the page on [petrzalka.info](http://petrzalka.info/) or [frido.gi
 
 **repositories**: **[petrzalka-11ty](https://github.com/frido/petrzalka-11ty)**: sources for [11ty](https://www.11ty.dev/) (the current version). **[petrzalka-hugo](https://github.com/frido/petrzalka-hugo)**: sources for [Hugo](https://gohugo.io/) (older versions)
 
-## Government
+# Government
 
 Page with resolutions of the Petrzalka City Council
 
@@ -39,19 +39,21 @@ The ambition was to experiment with and compare similar technologies. Here is th
 
 **repository**: **[government](https://github.com/frido/government)**
 
-## Samosprava
-The aim of this project was to provide a web-based management tool for data used by the Government page.
+# Samosprava
+
+Web-based management tool for data used by the *Government* page.
 
 I used [JHipster](https://www.jhipster.tech/) as the development platform. The backend is built on [Spring Boot](https://spring.io/projects/spring-boot). The frontend is [Angular](https://angular.io/) application. Data were stored in [MongoDB](https://www.mongodb.com/) provided by [mLab](https://mlab.com/). The application was deployed on [Heroku](https://www.heroku.com/home#).
 
 **repository**: **[samosprava](https://github.com/frido/samosprava)**
 
-## MvnRepo
+# MvnRepo
 
-Application indexes `pom.xml` files in mvn repositories (like [Maven Central Repository](https://repo1.maven.org/maven2/)) to allow users to search for java artifacts. The project was inspired by [mvnrepository](mvnrepository.com).
+Indexer of `pom.xml` files in mvn repositories (like [Maven Central Repository](https://repo1.maven.org/maven2/)) 
 
+The fontend allows users to search for java artifacts. The project was inspired by [mvnrepository](mvnrepository.com).
 
-My motivation was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/). The application was running on [Heroku](https://www.heroku.com/home#).
+My ambition was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/). The application was running on [Heroku](https://www.heroku.com/home#).
 
 I was experimenting to develop in cloud IDEs. My favorites were [Cloud9](https://aws.amazon.com/cloud9/) and [Codenvy](https://codenvy.com/)
 
@@ -62,18 +64,3 @@ I was experimenting to develop in cloud IDEs. My favorites were [Cloud9](https:/
 **[mvnrepo-backend](https://github.com/frido/mvnrepo-backend)**: [Spring Boot](https://spring.io/projects/spring-boot) application written in [Kotlin](https://kotlinlang.org/) provides REST-API backend.
 
 **[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: [Angular-CLI](https://cli.angular.io/) web application simply displays search results of Java artifacts. 
-
-<!--
-**frido/frido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
