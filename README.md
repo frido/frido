@@ -17,7 +17,7 @@ You can find the resulting statistics on the [github pages](http://petrzalka.inf
   <img align='left' height="110px" src="http://petrzalka.info/img/logo-m.png">
 </p>
 
-Web-page about development projects in Petržalka
+Web page about development projects in Petržalka
 
 The page contains open information collected from Slovak government pages: plans, deadlines, government resolutions, etc. are summarized and displayed in an elegant and concise way.
 
