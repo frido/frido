@@ -35,24 +35,24 @@ The ambition was to experiment with and compare similar technologies. Here is th
 
 # [Samosprava](https://github.com/frido/samosprava)
 
-Web-based management tool for data used by the *Government* page.
+Web-based management tool for the data used by the *Government* page
 
-I used [JHipster](https://www.jhipster.tech/) as the development platform. The backend is built on [Spring Boot](https://spring.io/projects/spring-boot). The frontend is [Angular](https://angular.io/) application. Data were stored in [MongoDB](https://www.mongodb.com/) provided by [mLab](https://mlab.com/). The application was deployed on [Heroku](https://www.heroku.com/home#).
+I used [JHipster](https://www.jhipster.tech/) as the development platform. The backend is built on [Spring Boot](https://spring.io/projects/spring-boot). The frontend is an [Angular](https://angular.io/) application. The data were stored in [MongoDB](https://www.mongodb.com/) provided by [mLab](https://mlab.com/). The application was deployed on [Heroku](https://www.heroku.com/home#). Due to newly introduced restrictions I was forced to remove the data.
 
 # MvnRepo
 
-Indexer of `pom.xml` files in mvn repositories (like [Maven Central Repository](https://repo1.maven.org/maven2/)) 
+Indexer of `pom.xml` files in mvn repositories
 
-The fontend allows users to search for java artifacts. The project was inspired by [mvnrepository](mvnrepository.com).
+You can search for java artifacts located in the [Central Maven Repository](https://repo1.maven.org/maven2/). The project was inspired by [mvnrepository](mvnrepository.com).
 
-My ambition was to try (in that time new) technologies like [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), [Angular-CLI](https://cli.angular.io/). The application was running on [Heroku](https://www.heroku.com/home#).
+My ambition was to try (at that given point bleeding edge) technologies such as [Kotlin](https://kotlinlang.org/), [Gradle](https://gradle.org/), and [Angular-CLI](https://cli.angular.io/). The application was running on [Heroku](https://www.heroku.com/home#).
 
-I was experimenting to develop in cloud IDEs. My favorites were [Cloud9](https://aws.amazon.com/cloud9/) and [Codenvy](https://codenvy.com/)
+This project made me experiment with cloud IDEs. My favorites turned out to be [Cloud9](https://aws.amazon.com/cloud9/) and [Codenvy](https://codenvy.com/)
 
 **repositories**:
 
-**[mvnrepo-indexer](https://github.com/frido/mvnrepo-indexer)**: [Java](https://www.java.com/en/) crawler to download all `pom.xml` files from the repository.
+**[mvnrepo-indexer](https://github.com/frido/mvnrepo-indexer)**: [Java](https://www.java.com/en/) crawler to download all `pom.xml` files from the repository
 
-**[mvnrepo-backend](https://github.com/frido/mvnrepo-backend)**: [Spring Boot](https://spring.io/projects/spring-boot) application written in [Kotlin](https://kotlinlang.org/) provides REST-API backend.
+**[mvnrepo-backend](https://github.com/frido/mvnrepo-backend)**: [Spring Boot](https://spring.io/projects/spring-boot) application written in [Kotlin](https://kotlinlang.org/) which provides REST-API backend
 
-**[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: [Angular-CLI](https://cli.angular.io/) web application simply displays search results of Java artifacts. 
+**[mvnrepo-frontend](https://github.com/frido/mvnrepo-frontend)**: [Angular-CLI](https://cli.angular.io/) web application simply to displays search results of Java artifacts
