@@ -1,7 +1,7 @@
 # [Maven statistics](https://github.com/frido/mvn-statistics)
 
 <p>
-  <img align='left' height="110px" src="http://petrzalka.info/mvn-statistics/charts/ciManagement.png">
+  <img align='left' height="110px" src="http://petrzalka.info/mvn-statistics/assets/charts/ciManagement.png">
 </p>
 
 Java multithreaded application that aims to analyze pom files from the central maven repository
